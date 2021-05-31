@@ -1,0 +1,34 @@
+[
+    {
+      "Nombre": "Arduino para Principiantes",
+      "Descripción": "Et omnis velit harum ab magnam sed ea. Molestiae vel et quaerat corrupti ea. Ipsum velit maxime vel suscipit. Aspernatur et necessitatibus et non mollitia odio.",
+      "Precio": "129.49",
+      "SKU": "897044",
+      "Cantidad": "71",
+      "img": "https://imgv2-2-f.scribdassets.com/img/word_document/311481421/149x198/dcba969f5b/1617226146?v=1"
+    },
+    {
+      "Nombre": "JavaScript: Guía completa",
+      "Descripción": "Dolorem non quis et ullam. Qui voluptatibus quo voluptatem adipisci eum similique animi deleniti. Vitae dolorem ratione voluptates natus rerum iure ducimus.",
+      "Precio": "419.99",
+      "SKU": "637",
+      "Cantidad": "38817916",
+      "img": "https://imgv2-1-f.scribdassets.com/img/word_document/450231852/149x198/89ba68f5da/1617229253?v=1"
+    },
+    {
+      "Nombre": "VBA Excel Guía Esencial",
+      "Descripción": "Eos iusto id voluptatem iure. Quia maiores consequatur optio. Quis ut provident blanditiis. Quo non quam quasi vitae eos. Id reprehenderit tempore iure fugiat doloribus.",
+      "Precio": "609.49",
+      "SKU": "364599683",
+      "Cantidad": "47",
+      "img": "https://imgv2-2-f.scribdassets.com/img/word_document/324890695/149x198/325a98fcaa/1617232180?v=1"
+    },
+    {
+      "Nombre": "Aprende a Programar con Java",
+      "Descripción": "Et rerum sint enim ea quidem eos. Sit deserunt in enim accusamus dolorum optio fuga sunt. Officia est voluptatem corporis quia ut nihil nostrum.",
+      "Precio": "809.29",
+      "SKU": "4340519",
+      "Cantidad": "710821736",
+      "img": "https://imgv2-1-f.scribdassets.com/img/word_document/315581040/149x198/9f3c896ee8/1617237088?v=1"
+    }
+  ]
